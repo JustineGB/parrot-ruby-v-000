@@ -3,5 +3,3 @@ def parrot ("Pretty bird!")
   return "Squawk!"
 end
 # BOTH returns the phrase & puts the phrase
-
-parrot("Pretty bird!")
